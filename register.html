@@ -1,27 +1,28 @@
 <html>
 
 <head>
-
+    <link rel="stylesheet" href="style.css">
     <tilte>Register</tilte>
 </head>
 
 <body>
-    <table>
+    <table class="tbl-register">
         <tr>
-            <td>First Name</td>
+            <td><label id="lblFirstName">First Name</label></td>
             <!--type="text" is an attribute-->
             <td>
                 <input type="text" id="txtFirstName">
             </td>
         </tr>
         <tr>
-            <td>Last Name</td>
+            <td><label id="lblLastName">Last Name</label></td>
             <td>
                 <input type="text" id="txtLastName">
             </td>
         </tr>
         <tr>
-            <td>Password</td>
+            <td><label id="lblPassword" class="lbl-green-bold" style="color: red;
+    font-weight: normal;"> Password</label></td>
             <td>
                 <input type="password" id="txtPassword">
             </td>

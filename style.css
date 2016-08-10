@@ -1,0 +1,45 @@
+/*
+Element based Styling.
+
+*/
+
+label{
+    font-size: 20px;
+    color: brown !important;; 
+}
+
+
+.lbl-green-bold{
+     color: green; 
+     font-weight: bold;
+     font-size:18px;
+}
+
+#lblFirstName{
+    color: olive;
+    padding:20px;
+    margin:2px;
+    border: 2px solid black;
+}
+
+#lblPassword{
+    color: olive 
+    font-weight: normal;
+}
+.tbl-register{
+    margin:1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
