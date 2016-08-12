@@ -1,0 +1,16 @@
+WEBVTT FILE
+
+1
+00:00:00.500 --> 00:00:02.000 D:vertical A:start
+This is the first subtitle
+2
+00:00:02.500 --> 00:00:04.300
+Lets now see how much useful video tags are
+3
+00:00:05.000 --> 00:00:07.000
+we got properties too
+
+4
+00:00:08.000 --> 00:00:09.000
+and we can play iwth events also..cool
+

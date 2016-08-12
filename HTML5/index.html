@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<style rel = "stylesheet">
+section{
+	padding: 15px;
+	margin:15px;
+	border:2px solid #6666FF;
+}
+input{
+	display: block;
+	margin-bottom:10px;
+}
+form{
+	margin-left: 50px;
+}
+</style>
+</head>
+<body>
+	<section>
+    <form method="GET" action="submit.php" autocomplete="off">
+
+        <label for="firstname">First Name</label>
+        <input id="firstname" type="text" name="firstname" required placeholder="First Name">
+        <label for="url">Enter the URL</label>
+        <input autofocus type="url" id="url" name="url" placeholder="Website Url">
+        <label for="date">Enter Date</label>
+        <input type="date" id="date" name="date">
+        <br>
+        <label for="search">Enter Search Text</label>
+        <input type="search" required id="search">
+        <label for="telephone">Enter phone no</label>
+        <input type="tel" pattern="[0-9]{10}" id="telephone">
+        <label for="age">Enter your age</label>
+        <input type="number" id="age">
+        <label for="myid">Enter Range value</label>
+        <input id="myid" type="range" min="10" max="100" value="5">
+        <label for="color">Select Color Value</label>
+        <input id="color" name="color" type="color">
+        <label for="browsers">Enter browser Value</label>
+        <input list="browsers" id="browsers" name="browsers" />
+        <datalist id="browsers">
+            <option value="Chrome">
+                <option value="Firefox">
+                    <option value="Internet Explorer">
+                        <option value="Opera">
+                            <option value="Safari">
+        </datalist>
+        <br/>
+        <label for="select-browsers">Select Color Value</label>
+        <br/>
+        <select multiple id="select-browsers" name="browsers">
+            <option value="Chrome">Chrome</option>
+            <option value="Firefox">Firefox</option>
+            <option value="Internet Explorer">IE</option>
+            <option value="Opera">Opera</option>	<option value="Safari">Safari</option>
+				</select><br><br>
+				<label for = "progress">Below is the progress value</label>
+				<progress value="80" max="100">80 %</progress>
+				<br><br>
+				<input type = "submit" value = "Submit Form">
+		</form>
+	</section>
+					</body>
+					</html>
