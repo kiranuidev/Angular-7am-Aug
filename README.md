@@ -7,7 +7,7 @@ Rules :
 
 ##Resourses to learn GIT-GITHUB
 
-[Git commands cheat sheetin GIF format](https://khaledmohammed000.github.io/Git-Cheat-Sheet-using-gifs/)
+[Git commands cheat sheet in GIF format](https://khaledmohammed000.github.io/Git-Cheat-Sheet-using-gifs/)
 
 [Official Github Guides](https://guides.github.com/)
 
