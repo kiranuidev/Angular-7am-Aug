@@ -15,7 +15,7 @@ Rules :
 
 ##FAQ regarding Version Control
 
-[FAQ page 1](https://github.com/khaledMohammed000/Notes-Reflections/blob/master/lesson%201)
+[FAQ page 1](https://github.com/khaledMohammed000/Notes-Reflections/blob/master/FAQ_1.md)
 
 [FAQ page 2](https://github.com/khaledMohammed000/Notes-Reflections/blob/master/lesson%202)
 
