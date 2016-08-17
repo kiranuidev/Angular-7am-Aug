@@ -9,10 +9,6 @@ Rules :
 
 [Git commands cheat sheet in GIF format](https://khaledmohammed000.github.io/Git-Cheat-Sheet-using-gifs/)
 
-[Official Github Guides](https://guides.github.com/)
-
-[Another good Document](https://www.atlassian.com/git/)
-
 ##FAQ regarding Version Control
 
 [FAQ page 1](https://github.com/khaledMohammed000/Notes-Reflections/blob/master/FAQ_1.md)
@@ -22,3 +18,9 @@ Rules :
 [FAQ Page 3](https://github.com/khaledMohammed000/Notes-Reflections/blob/master/lesson%203)
 
 [FAQ Repository](https://github.com/khaledMohammed000/Learn-GIT)
+
+##Official Documentation for using Git-GitHub
+
+[Official Github Guides](https://guides.github.com/)
+
+[Another good Document](https://www.atlassian.com/git/)
